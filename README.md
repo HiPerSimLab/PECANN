@@ -1,2 +1,2 @@
 # PECANN
-pyhsics and equality constrained artificial neural networks
+physics and equality constrained artificial neural networks
