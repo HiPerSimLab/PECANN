@@ -5,11 +5,11 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 
 ## Citation
 Please cite us if you find our work useful for your research:
-
+```
 @article{basir2021physics,
   title={Physics and Equality Constrained Artificial Neural Networks: Application to Partial Differential Equations},
   author={Basir, Shamsulhaq and Senocak, Inanc},
   journal={arXiv preprint arXiv:2109.14860},
   year={2021}
 }
-
+```
