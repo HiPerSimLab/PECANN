@@ -4,13 +4,13 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 
 
 ![alt-text-1](results/Network.png)
-# Two dimensional Poisson's equation: Plot over lines
+### Two dimensional Poisson's equation: Plot over lines
 ![alt-text-1](results/Poisson_2D_Line.png)
-# Two dimensional Helmholtz equation: Plot over lines
+### Two dimensional Helmholtz equation: Plot over lines
 ![alt-text-1](results/Helmholtz_Lines.png)
-# Three dimensional Poisson's equation: Plot over lines
+### Three dimensional Poisson's equation: Plot over lines
 ![alt-text-1](results/Poisson_3D_Line.png)
-# Klein Gordon equation: Plot over lines
+### Klein Gordon equation: Plot over lines
 ![alt-text-1](results/Klein_Gordon_Lines.png)
 
 ## Citation
