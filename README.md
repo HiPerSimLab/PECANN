@@ -6,8 +6,8 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 <table>
   <tr>
     <td valign="top"><img src="results/VanillaLayer.png" width=120 height=200></td>
-    <td valign="top"><img src="results/OrigResLayer.png"width=120 height=200></td>
-    <td valign="top"><img src="results/ModifResLayer.png"width=120 height=200></td>
+    <td valign="top"><img src="results/OrigResLayer.png"width=150 height=200></td>
+    <td valign="top"><img src="results/ModifResLayer.png"width=150 height=200></td>
   </tr>
  </table>
  
