@@ -5,14 +5,9 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="results/VanillaLayer.png"></td>
-    <td valign="top"><img src="results/OrigResLayer.png"></td>
-    <td valign="top"><img src="results/ModifResLayer.png"></td>
+    <td valign="top"><img src="results/VanillaLayer.png" width=270 height=480></td>
+    <td valign="top"><img src="results/OrigResLayer.png"width=270 height=480></td>
+    <td valign="top"><img src="results/ModifResLayer.png"width=270 height=480></td>
   </tr>
  </table>
  
