@@ -1,4 +1,4 @@
-<style>H1{color:Blue;} Note: code will be available after the completion of the peer-review process </style>
+## Note: code will be available after the completion of the peer-review process 
 
 # Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusionv
 
