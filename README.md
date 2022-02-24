@@ -1,4 +1,4 @@
-Note: code will be available after the review process 
+<span style="color: green"> Note: code will be available after the completion of the peer-review process</span>
 
 # Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusionv
 
