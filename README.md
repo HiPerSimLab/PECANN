@@ -7,7 +7,14 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 ![plot](./PECANN_Animated.gif)
 
 
+## Codes:
+Jupyter notebooks are self-contained. 
 
+## Required packages
+Pytorch
+numpy 
+scipy 
+matplotlib
 
 
 ## Citation
