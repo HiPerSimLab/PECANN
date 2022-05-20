@@ -34,5 +34,4 @@ author = {Shamsulhaq Basir and Inanc Senocak}
 
 
 ### Questions and feedback?
-Feel free to contact us any questions or feedback you might have at 
-shamsbasir@gmail.com or shb105@pitt.edu
+For questions or feedback feel free to reach us at senocak@pitt.edu, shb105@pitt.edu, shamsbasir@gmail.com
