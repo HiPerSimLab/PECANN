@@ -33,3 +33,6 @@ author = {Shamsulhaq Basir and Inanc Senocak}
 ```
 
 
+### Questions and feedback?
+Feel free to contact us any questions or feedback you might have at 
+shamsbasir@gmail.com or shb105@pitt.edu
