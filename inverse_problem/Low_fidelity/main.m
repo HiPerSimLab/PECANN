@@ -1,3 +1,6 @@
+%@ Author : Shamsulhaq Basir
+% email :shamsbasir@gmail.com
+
 clc;clear all;close all;
 % parameters are set inside bvpfunc
 % a : (0.015, 0.15)
