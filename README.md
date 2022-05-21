@@ -11,7 +11,7 @@ Physics-informed neural networks (PINNs) have been proposed to learn the solutio
 Jupyter notebooks are self-contained. 
 
 ##### Required packages
-* Pytorch
+* PyTorch
 * numpy 
 * scipy 
 * matplotlib
