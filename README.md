@@ -20,9 +20,9 @@ Jupyter notebooks are self-contained.
 ## Citation
 Please cite us if you find our work useful for your research:
 ```
-@article{BASIR2022111301,
+@article{PECANN_2022,
 title = {Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion},
-journal = {Journal of Computational Physics},
+journal = {J. Comput. Phys.},
 pages = {111301},
 year = {2022},
 issn = {0021-9991},
