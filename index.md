@@ -33,7 +33,7 @@ author = {Shamsulhaq Basir and Inanc Senocak}
 ```
 ### Funding Acknowledgment
 This material is based upon work supported by the National Science Foundation under Grant No. 1953204 and in part in part by the University of Pittsburgh Center for Research Computing through the resources provided.\
-![plot](./images/NSF_Logo.png)    ![plot](./images/pitt_logo.png)
+![plot](./images/NSFlogo.png)    ![plot](./images/pittlogo.png)
 
 ### Questions and feedback?
 For questions or feedback feel free to reach us at senocak@pitt.edu, shb105@pitt.edu, shamsbasir@gmail.com
