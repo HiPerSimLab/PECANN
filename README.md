@@ -37,4 +37,4 @@ This material is based upon work supported by the National Science Foundation un
 <img src="./images/NSF_Logo.png" width=10% height=10%>    <img src="./images/pitt_logo.png" width=28% height=28% margin-left=100%>
 
 ### Questions and feedback?
-For questions or feedback feel free to reach us at [Inanc Senocak](mailto:senocak@pitt.edu), [Shams Basir](shamsbasir@gmail.com)
+For questions or feedback feel free to reach us at [Inanc Senocak](mailto:senocak@pitt.edu), [Shams Basir](mailto:shamsbasir@gmail.com)
