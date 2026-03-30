@@ -2,6 +2,7 @@
 ## PECANNs: Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion
 
 **We have substantially advanced our original PECANN method. Please see our latest work:** [PECANN-CAPU](https://github.com/HiPerSimLab/PECANN-CAPU)
+
 **Parallel version of the PECANN method is available at this** [link](https://github.com/HiPerSimLab/PECANN-DDM)
 
 ![plot](./images/Network.png)
